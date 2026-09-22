@@ -1,0 +1,2 @@
+# architecture_apparatn_sredstv
+homework
